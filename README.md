@@ -24,3 +24,11 @@
 **上傳到 GitHub 雲端專案空間**  
 `git push 遠端空間的名稱 遠端空間的分支`  
 `git push origin master`  
+
+## 下載 GitHub 雲端專案到本機
+**第一次下載 GitHub 雲端專案**  
+`git clone 遠端空間的名稱 本機資料夾名稱`  
+`git clone https://github.com/kekeli92870/git-test test123`  
+**從 GitHub 雲端專案下載合併更新**  
+`git pull 遠端空間的名稱 遠端空間的分支`  
+`git pull origin master`  
